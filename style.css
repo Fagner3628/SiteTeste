@@ -1,0 +1,48 @@
+/* mensagem de teste. aqui estarei realizando meu testes*/
+
+/*TAGS*/
+p{
+	color: black;
+	font-size: 20px;
+	font-family: aria;
+}
+body{
+	background-color:  #000000; 
+	color: #ffffff;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-color: blue;
+	text-align: center;
+	font-size: 80px
+}
+	
+footer{
+	clear: both;
+	background-color:  blue;
+	height: 20px; 
+	text-align: center;
+}
+h1{
+	margin: 0px 0px 20px 0px;
+}
+
+/*IDS*/
+
+#principal{
+	background-image: url('ceu.jpg');
+	background-size: 100%;
+	min-height: 650px;
+
+}
+
+/*CLASS*/
+.container{
+	width: 1300px;
+	margin:0 auto;
+}
